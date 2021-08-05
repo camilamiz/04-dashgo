@@ -13,7 +13,7 @@ export function Header() {
       px="6"
     >
       <Text
-        font-size="3xl"
+        fontSize="3xl"
         fontWeight="bold"
         letterSpacing="tight"
         w="64"
